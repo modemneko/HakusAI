@@ -1,0 +1,8 @@
+langchain
+langchain-chroma 
+langchain-community 
+google-generativeai 
+langchain-google-genai 
+langchain-google-community 
+langgraph
+gradio
